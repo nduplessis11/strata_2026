@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['hex_0',['HEX',['../build_2gcc-debug_2CMakeFiles_24_82_82_2CompilerIdCXX_2CMakeCXXCompilerId_8cpp.html#a46d5d95daa1bef867bd0179594310ed5',1,'HEX:&#160;CMakeCXXCompilerId.cpp'],['../build_2mingw64-debug_2CMakeFiles_24_82_82_2CompilerIdCXX_2CMakeCXXCompilerId_8cpp.html#a46d5d95daa1bef867bd0179594310ed5',1,'HEX:&#160;CMakeCXXCompilerId.cpp'],['../out_2build_2msvc-debug_2CMakeFiles_24_81_81-msvc1_2CompilerIdCXX_2CMakeCXXCompilerId_8cpp.html#a46d5d95daa1bef867bd0179594310ed5',1,'HEX:&#160;CMakeCXXCompilerId.cpp'],['../out_2build_2msvc-release_2CMakeFiles_24_81_81-msvc1_2CompilerIdCXX_2CMakeCXXCompilerId_8cpp.html#a46d5d95daa1bef867bd0179594310ed5',1,'HEX:&#160;CMakeCXXCompilerId.cpp'],['../out_2build_2win-mingw64-debug_2CMakeFiles_24_81_81-msvc1_2CompilerIdCXX_2CMakeCXXCompilerId_8cpp.html#a46d5d95daa1bef867bd0179594310ed5',1,'HEX:&#160;CMakeCXXCompilerId.cpp'],['../out_2build_2win-mingw64-release_2CMakeFiles_24_81_81-msvc1_2CompilerIdCXX_2CMakeCXXCompilerId_8cpp.html#a46d5d95daa1bef867bd0179594310ed5',1,'HEX:&#160;CMakeCXXCompilerId.cpp']]]
+  ['level_0',['Level',['../namespacestrata_1_1log.html#ab5b30c67f8df2cbd5985c8865614865b',1,'strata::log']]],
+  ['loc_1',['loc',['../structstrata_1_1err_1_1detail_1_1fmt__with__loc__impl.html#a818e98194493c547a55932004a0ee782',1,'strata::err::detail::fmt_with_loc_impl']]],
+  ['log_2ehpp_2',['log.hpp',['../log_8hpp.html',1,'']]]
 ];
