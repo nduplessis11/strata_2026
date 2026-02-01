@@ -1,0 +1,20 @@
+PROJECT_NAME           = "strata"
+OUTPUT_DIRECTORY       = docs
+INPUT                  = include src
+FILE_PATTERNS          = *.h *.hpp *.c *.cpp
+RECURSIVE              = YES
+
+# Prevent Doxygen from indexing generated/build junk
+EXCLUDE                = build out docs .git
+EXCLUDE_PATTERNS       = */CMakeFiles/* */_deps/* */docs/html/* */docs/latex/*
+
+GENERATE_HTML          = YES
+HTML_OUTPUT            = html
+GENERATE_LATEX         = NO
+
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = NO
+EXTRACT_STATIC         = YES
+
+WARN_IF_UNDOCUMENTED   = YES
+GROUP_NESTED_COMPOUNDS = YES
