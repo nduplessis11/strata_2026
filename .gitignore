@@ -1,0 +1,61 @@
+# =========================
+# Build artifacts
+# =========================
+build/
+out/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+*.ninja
+.ninja_*
+compile_commands.json
+
+# =========================
+# Visual Studio
+# =========================
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.user
+*.pdb
+*.ilk
+
+# =========================
+# MinGW / Windows binaries
+# =========================
+*.exe
+*.dll
+*.lib
+*.exp
+
+# =========================
+# Linux / WSL binaries
+# =========================
+*.o
+*.a
+*.so
+
+# =========================
+# clang / tooling
+# =========================
+.cache/
+.clangd-index/
+
+# =========================
+# OS / editor noise
+# =========================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# =========================
+# Allowlist (keep tracked)
+# =========================
+!.gitignore
+!.clangd
