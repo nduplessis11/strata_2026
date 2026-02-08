@@ -1,2 +1,2 @@
 CompileFlags:
-  CompilationDatabase: build/gcc-debug
+  CompilationDatabase: build/mingw64-debug

@@ -3,6 +3,10 @@
 #include <cstdint>
 #include <string_view>
 #include <utility>
+#include <string>
+#include <chrono>
+#include <source_location>
+#include <thread>
 
 namespace strata::log
 {
@@ -45,5 +49,15 @@ enum class Level : std::uint8_t
 
 	std::unreachable();
 }
+
+struct LogRecord
+{
+    Level level{};
+    std::string_view category{};
+    std::string message{};
+    std::source_location location{};
+    std::chrono::system_clock::time_point timestamp{};
+    std::thread::id thread_id{};
+};
 
 }        // namespace strata::log

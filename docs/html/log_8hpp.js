@@ -1,5 +1,6 @@
 var log_8hpp =
 [
+    [ "strata::log::LogRecord", "structstrata_1_1log_1_1LogRecord.html", "structstrata_1_1log_1_1LogRecord" ],
     [ "strata::log::Level", "namespacestrata_1_1log.html#ab5b30c67f8df2cbd5985c8865614865b", [
       [ "strata::log::Level::trace", "namespacestrata_1_1log.html#ab5b30c67f8df2cbd5985c8865614865ba04a75036e9d520bb983c5ed03b8d0182", null ],
       [ "strata::log::Level::debug", "namespacestrata_1_1log.html#ab5b30c67f8df2cbd5985c8865614865baad42f6697b035b7580e4fef93be20b4d", null ],
